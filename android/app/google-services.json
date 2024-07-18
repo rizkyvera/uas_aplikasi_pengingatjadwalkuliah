@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037723831450",
+    "project_id": "pengingat-jadwal-kuliah-c8e8e",
+    "storage_bucket": "pengingat-jadwal-kuliah-c8e8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037723831450:android:d3dcc7f6a09a4c01882323",
+        "android_client_info": {
+          "package_name": "com.example.uts_aplikasipengingatjadwalkuliah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pb132eVioAr7W5gWFxjCjSbU5Esphi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
